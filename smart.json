@@ -1,0 +1,10 @@
+{
+    "name": "instagram-node",
+    "description": "Wrapper for the instagram-node npm package - https://github.com/teleportd/instagram-node",
+    "homepage": "https://github.com/timbroddin/meteor-instagram-node",
+    "author": "Tim Broddin",
+    "version": "0.1.0",
+    "git": "https://github.com/timbroddin/meteor-instagram-node.git",
+    "packages": {}
+
+}
